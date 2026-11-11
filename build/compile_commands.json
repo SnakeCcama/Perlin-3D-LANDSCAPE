@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/magsgl/Desktop/OpenGl/perlNoise/build",
+  "command": "/usr/bin/g++ -g -g -o CMakeFiles/perlo.dir/src/main.cpp.o -c /home/magsgl/Desktop/OpenGl/perlNoise/src/main.cpp",
+  "file": "/home/magsgl/Desktop/OpenGl/perlNoise/src/main.cpp",
+  "output": "/home/magsgl/Desktop/OpenGl/perlNoise/build/CMakeFiles/perlo.dir/src/main.cpp.o"
+}
+]

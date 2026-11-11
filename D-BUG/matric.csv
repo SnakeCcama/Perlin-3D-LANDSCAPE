@@ -1,0 +1,16 @@
+Name,Value,Byte Offset,Type
+model,,,float4x4 (column_major)
+model.row0,"1.00, 0.00, 0.00, 0.00",,float4
+model.row1,"0.00, 1.00, 0.00, 0.00",,float4
+model.row2,"0.00, 0.00, 1.00, 0.00",,float4
+model.row3,"0.00, 0.00, 0.00, 1.00",,float4
+projection,,,float4x4 (column_major)
+projection.row0,"INF, 0.00, 0.00, 0.00",,float4
+projection.row1,"0.00, INF, 0.00, 0.00",,float4
+projection.row2,"0.00, 0.00, -1.00, -0.20",,float4
+projection.row3,"0.00, 0.00, -1.00, 0.00",,float4
+view,,,float4x4 (column_major)
+view.row0,"1.00, 1.77636E-15, -4.37114E-08, 1.31134E-07",,float4
+view.row1,"-2.18557E-08, 0.86603, -0.50, 0.20096",,float4
+view.row2,"3.78552E-08, 0.50, 0.86603, -3.34808",,float4
+view.row3,"0.00, 0.00, 0.00, 1.00",,float4

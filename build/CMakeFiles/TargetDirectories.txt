@@ -1,0 +1,3 @@
+/home/magsgl/Desktop/OpenGl/perlNoise/build/CMakeFiles/perlo.dir
+/home/magsgl/Desktop/OpenGl/perlNoise/build/CMakeFiles/edit_cache.dir
+/home/magsgl/Desktop/OpenGl/perlNoise/build/CMakeFiles/rebuild_cache.dir
